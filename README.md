@@ -2,12 +2,18 @@
 
 ## 自己紹介
 
-現在、フロントエンド技術を勉強中です。JavaScript（TypeScript）を主に学習しつつ、Vue.js にも触れています。  
-今後、さらにスキルを磨き、実務での経験を積んでいきたいと考えています。
+現在、フロントエンド技術を勉強中です。JavaScript（TypeScript）を主に学習しつつ、まれにVue.js にも触れています。  
+今後、実務での経験を積んでいきたいと考えています。
 
 ---
 
 ## **公開リンク**
+### **Geonippon - 都道府県クイズ**  
+**制作日:** 2025年5月7日  
+- **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/geonippon)  
+- **公開URL:** [サイトを開く](https://10mo3o111.github.io/geonippon/)
+
+
 ### **天気予報や空席状況を表示サイト**
 **制作日:** 2025年3月27日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/async-lab)  
