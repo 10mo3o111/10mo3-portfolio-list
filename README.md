@@ -11,7 +11,7 @@
 ### **Our Gate - 簡易メッセージ掲示板**  
 **制作日:** 2025年5月25日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/our-gate)   
-- **公開URL:** （）  
+- **公開URL:** [サイトを開く](https://our-gate.onrender.com)
 フロントエンドと関わるサーバーの仕組みに少し触れてみたく、Node.jsで簡単な掲示板を作成しました。
 
 
