@@ -8,6 +8,15 @@
 ---
 
 ## **公開リンク**
+# Slidefolio - 画像スライドショーサイト  
+制作日: 2025年6月15日
+
+GitHubリポジトリ: [GitHub](https://github.com/あなたのユーザー名/slidefolio)  
+公開URL: [サイトを開く](https://あなたのユーザー名.github.io/slidefolio/)
+
+＊様々なスライダー機能を実装し、使い方を学ぶためのサンプルサイトです。
+
+
 ### **Our Gate - 簡易メッセージ掲示板**  
 **制作日:** 2025年5月25日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/our-gate)   
