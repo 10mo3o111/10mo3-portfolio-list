@@ -13,7 +13,7 @@
 - **GitHubリポジトリ:** [GitHub](https://10mo3o111.github.io/slidefolio/)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/slidefolio/)<br>
 ＊様々なスライダー機能を実装し、使い方を学ぶためのサンプルサイトです。
-
+<br><br>
 
 ### **Our Gate - 簡易メッセージ掲示板**（JavaScript（メイン）／TypeScript（メイン）／HTML／CSS）  
 **制作日:** 2025年5月25日  
