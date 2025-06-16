@@ -8,7 +8,7 @@
 ---
 
 ## **公開リンク**
-### ** Slidefolio - 画像スライドショーサイト**（JavaScript（ライブラリー）／HTML／CSS）  
+### **Slidefolio - 画像スライドショーサイト**（JavaScript（ライブラリー）／HTML／CSS）  
 **制作日:** 制作日: 2025年6月15日
 - **GitHubリポジトリ:** [GitHub](https://10mo3o111.github.io/slidefolio/)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/slidefolio/)<br>
