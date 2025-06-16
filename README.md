@@ -22,54 +22,54 @@
 ＊フロントエンドと関わるサーバーの仕組みに少し触れてみたく、**Node.jsで簡単な掲示板を作成しました**。<br>
 **ご注意**  
 このサイトは無料サーバーで運用しており、**15分間操作がないとスリープ状態になります**。その際、**再起動に最大1分ほどかかる**ことがあります。ご了承ください。
-
+<br><br>
 
 ### **Geonippon - 都道府県クイズ**（JavaScript（メイン）／TypeScript（メイン）／HTML／CSS） 
 **制作日:** 2025年5月7日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/geonippon)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/geonippon/)<br>
 ＊TypeScriptでのシンプルなクラス設計と非同期処理を使って、状態管理とイベント制御を行う、わかりやすく操作できるクイズ機能を実装しています。
-
+<br><br>
 
 ### **天気予報や空席状況を表示サイト**（JavaScript（メイン）／TypeScript（メイン）／HTML／CSS） 
 **制作日:** 2025年3月27日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/async-lab)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/async-lab/)<br>
 ＊TypeScriptのシンプルなクラス設計と非同期処理で、状態管理やイベント制御を行いながら、天気APIを活用したインタラクティブなクイズのように楽しい天気予報UIを実装しています。
-  
+<br><br>
 
 ### **カウントダウンサイト**（JavaScript（メイン）／TypeScript（メイン）／HTML／CSS） 
 **制作日:** 2025年3月18日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/2025-countdown)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/2025-countdown/)
-  
+<br><br> 
 
 ### **ギャラリーサイト**（JavaScript（ライブラリー）／vue／HTML／CSS）   
 **制作日:** 2025年1月10日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/gallery-site-portfolio)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/gallery-site-portfolio/)
-  
+<br><br>
 
 ### **ビューティサロンサイト** （HTML／CSS／JavaScript（ライブラリー））
 **制作日:** 2024年12月12日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/beauty-salon-portfolio)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/beauty-salon-portfolio/)
-  
+<br><br>
 
 ### **キッズサイト** （HTML／CSS／JavaScript）
 **制作日:** 2024年10月20日  
 - **公開URL:** [サイトを開く](https://productiont.github.io/kidsSite/)
-  
+<br><br>
 
 ### **ファッションサイト**（HTML／CSS／JavaScript）
 **制作日:** 2024年5月1日  
 - **公開URL:** [サイトを開く](https://productiont.github.io/FashionCollection/)
-  
+<br><br>
 
 ### **ギャラリーサイト** （HTML／CSS／JavaScript）
 **制作日:** 2024年5月1日  
 - **公開URL:** [サイトを開く](https://productiont.github.io/GallerySite/)
-  
+<br><br>
 
 ### **その他**  
 **制作日:** 上記以前  
