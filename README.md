@@ -41,7 +41,8 @@
 ### **カウントダウンサイト**（JavaScript（メイン）／TypeScript（メイン）／HTML／CSS） 
 **制作日:** 2025年3月18日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/2025-countdown)  
-- **公開URL:** [サイトを開く](https://10mo3o111.github.io/2025-countdown/)
+- **公開URL:** [サイトを開く](https://10mo3o111.github.io/2025-countdown/)<br>
+＊TypeScriptとJavaScriptを活用し、イベントの開始・終了をカウントダウンで動的に表示する仕組みや、Cookieによるプライバシー同意パネルの制御を実装しています。
 <br><br> 
 
 ### **ギャラリーサイト**（JavaScript（ライブラリー）／vue／HTML／CSS）   
