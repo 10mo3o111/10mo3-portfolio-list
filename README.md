@@ -34,7 +34,8 @@
 ### **天気予報や空席状況を表示サイト**
 **制作日:** 2025年3月27日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/async-lab)  
-- **公開URL:** [サイトを開く](https://10mo3o111.github.io/async-lab/)
+- **公開URL:** [サイトを開く](https://10mo3o111.github.io/async-lab/)<br>
+＊TypeScriptのシンプルなクラス設計と非同期処理で、状態管理やイベント制御を行いながら、天気APIを活用したインタラクティブなクイズのように楽しい天気予報UIを実装しています。
   
 
 ### **カウントダウンサイト**
