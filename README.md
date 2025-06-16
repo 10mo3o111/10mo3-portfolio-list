@@ -8,7 +8,7 @@
 ---
 
 ## **公開リンク**
-### ** Slidefolio - 画像スライドショーサイト**（JavaScript／HTML／CSS）  
+### ** Slidefolio - 画像スライドショーサイト**（JavaScript（ライブラリー）／HTML／CSS）  
 **制作日:** 制作日: 2025年6月15日
 - **GitHubリポジトリ:** [GitHub](https://10mo3o111.github.io/slidefolio/)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/slidefolio/)<br>
@@ -44,13 +44,13 @@
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/2025-countdown/)
   
 
-### **ギャラリーサイト**（JavaScript／vue／HTML／CSS）   
+### **ギャラリーサイト**（JavaScript（ライブラリー）／vue／HTML／CSS）   
 **制作日:** 2025年1月10日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/gallery-site-portfolio)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/gallery-site-portfolio/)
   
 
-### **ビューティサロンサイト** （HTML／CSS／JavaScript）
+### **ビューティサロンサイト** （HTML／CSS／JavaScript（ライブラリー））
 **制作日:** 2024年12月12日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/beauty-salon-portfolio)  
 - **公開URL:** [サイトを開く](https://10mo3o111.github.io/beauty-salon-portfolio/)
@@ -61,12 +61,12 @@
 - **公開URL:** [サイトを開く](https://productiont.github.io/kidsSite/)
   
 
-### **ファッションサイト**  
+### **ファッションサイト**（HTML／CSS／JavaScript）
 **制作日:** 2024年5月1日  
 - **公開URL:** [サイトを開く](https://productiont.github.io/FashionCollection/)
   
 
-### **ギャラリーサイト**  
+### **ギャラリーサイト** （HTML／CSS／JavaScript）
 **制作日:** 2024年5月1日  
 - **公開URL:** [サイトを開く](https://productiont.github.io/GallerySite/)
   
