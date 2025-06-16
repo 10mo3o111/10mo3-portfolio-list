@@ -27,7 +27,8 @@
 ### **Geonippon - 都道府県クイズ**  
 **制作日:** 2025年5月7日  
 - **GitHubリポジトリ:** [GitHub](https://github.com/10mo3o111/geonippon)  
-- **公開URL:** [サイトを開く](https://10mo3o111.github.io/geonippon/)
+- **公開URL:** [サイトを開く](https://10mo3o111.github.io/geonippon/)<br>
+＊TypeScriptでのシンプルなクラス設計と非同期処理を使って、状態管理とイベント制御を行う、わかりやすく操作できるクイズ機能を実装しています。
 
 
 ### **天気予報や空席状況を表示サイト**
